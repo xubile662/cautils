@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
 
     <color name="ocean_blue">#0858a0</color>
+    <color name="deep_ocean_blue">#2f58a0</color>
+    <color name="ocean_blue_40">#660858a0</color>
     <color name="ocean_blue_10">#19056eb5</color>
+    <color name="greyish_brown">#4a4a4a</color>
     <color name="greyish">#afafaf</color>
+    <color name="warm_grey">#9b9b9b</color>
+    <color name="warm_gre_40">#669b9b9b</color>
+    <color name="scarlet">#d0021b</color>
+    <color name="white_two">#f5f5f5</color>
+    <color name="white_three">#e5e5e5</color>
+    <color name="white_four">#80ffffff</color>
+    <color name="white_five">#f1f1f1</color>
     <color name="white_six">#e2e2e2</color>
+    <color name="white_seven">#ececec</color>
     <color name="charcoal_grey">#394553</color>
     <color name="charcoal_grey50">#80394553</color>
 
+    <color name="charcoal_grey14">#14394553</color>
     <color name="apple_green">#7ed321</color>
     <color name="apple_green_10">#197ed321</color>
+    <color name="cherry_red">#ff001f</color>
+    <color name="bluey_grey">#b4bfc9</color>
     <color name="squash">#f5a623</color>
+    <color name="prussian_blue">#034775</color>
+    <color name="faded_red">#e03c4f</color>
 
     <color name="colorYellow">#FFBD05</color>
+    <color name="colorMossGreen">#347C12</color>
+    <color name="colorBlueLogin">#8CB1E5</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorSemiWhite">#FAFAFA</color>
+    <color name="colorGreySoft">#b2b2b2</color>
+    <color name="colorGreySoft1">#c4c4c4</color>
+    <color name="colorGreySoft2">#c4c4c4</color>
+    <color name="colorGreyMid">#9294bb</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#2A61B5</color>
+    <color name="colorBlueDark">#182286</color>
+    <color name="colorBlueSoft1">#E7EFFF</color>
+    <color name="colorGreenButton">#347c12</color>
+    <color name="dark_grey_blue">#273d52</color>
+    <color name="cool_grey">#9ca2a9</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="lanc">#18000000</color>
+
+    <color name="finder_mask">#60000000</color>
+    <color name="colorWhite30">#30FFFFFF</color>
+    <color name="colorblue30">#19056eb5</color>
+    <color name="colorgreyjing">#18056eb5</color>
+    <color name="transparent">#04ffffff</color>
 
 </resources>
