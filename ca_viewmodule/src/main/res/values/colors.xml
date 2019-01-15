@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ocean_blue">#0858a0</color>
+    <color name="ocean_blue_10">#19056eb5</color>
+    <color name="greyish">#afafaf</color>
+    <color name="white_six">#e2e2e2</color>
+    <color name="charcoal_grey">#394553</color>
+    <color name="charcoal_grey50">#80394553</color>
+
+    <color name="apple_green">#7ed321</color>
+    <color name="apple_green_10">#197ed321</color>
+    <color name="squash">#f5a623</color>
+
+    <color name="colorYellow">#FFBD05</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+</resources>

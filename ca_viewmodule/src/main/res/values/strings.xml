@@ -1,0 +1,7 @@
+<resources>
+    <!--beta-->
+    <string name="app_name">OttoPay Beta</string>
+    <!--release-->
+    <!--<string name="app_name">OttoPay</string>-->
+
+</resources>
