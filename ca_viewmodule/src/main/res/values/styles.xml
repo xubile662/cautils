@@ -1,11 +1,44 @@
 <resources>
 
     <!-- Base application theme. -->
+    <style name="TextView8spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">8sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
 
+    <style name="TextView8splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">8sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextView8sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">8sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView10spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">10sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView10splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">10sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextView10sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">10sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
 
     <style name="TextView12spbold" parent="@android:style/Widget.TextView">
         <item name="android:textSize">12sp</item>
         <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView12splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:typeface">monospace</item>
     </style>
 
     <style name="TextView12sp" parent="@android:style/Widget.TextView">
@@ -18,8 +51,89 @@
         <item name="android:typeface">serif</item>
     </style>
 
+    <style name="TextView14splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
     <style name="TextView14sp" parent="@android:style/Widget.TextView">
         <item name="android:textSize">14sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView16spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView16splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextView16sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView18spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView18splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextView18sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView20spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView20splight" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="TextView20sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView24spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">24sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView24sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">24sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextView28spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">28sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView28sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">28sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+
+    <style name="TextView36spbold" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">36sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TextView36sp" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">36sp</item>
         <item name="android:typeface">sans</item>
     </style>
 
