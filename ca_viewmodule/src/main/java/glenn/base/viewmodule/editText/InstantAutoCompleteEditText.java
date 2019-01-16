@@ -7,6 +7,7 @@ import android.view.MotionEvent;
 
 import glenn.base.util.DeviceUtil;
 
+
 public class InstantAutoCompleteEditText extends android.support.v7.widget.AppCompatAutoCompleteTextView {
 
     public InstantAutoCompleteEditText(Context context) {
